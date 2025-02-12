@@ -1,0 +1,4 @@
+C:\Users\info\Desktop\ZaHash2\ZaHash2\bin\x64\Release\ZaHash2.dll
+C:\Users\info\Desktop\ZaHash2\ZaHash2\obj\x64\Release\ZaHash2.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\ZaHash2\ZaHash2\obj\x64\Release\ZaHash2.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\ZaHash2\ZaHash2\obj\x64\Release\ZaHash2.dll
