@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\info\\Desktop\\ZaHash2\\ZaHash2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73C79128-B2BA-4545-BC13-D6455B69CAB0}|ZaHash2.csproj|c:\\users\\info\\desktop\\zahash2\\zahash2\\zahasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C79128-B2BA-4545-BC13-D6455B69CAB0}|ZaHash2.csproj|solutionrelative:zahasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZaHasher.cs",
+              "DocumentMoniker": "C:\\Users\\info\\Desktop\\ZaHash2\\ZaHash2\\ZaHasher.cs",
+              "RelativeDocumentMoniker": "ZaHasher.cs",
+              "ToolTip": "C:\\Users\\info\\Desktop\\ZaHash2\\ZaHash2\\ZaHasher.cs",
+              "RelativeToolTip": "ZaHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:58:59.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
